@@ -1,5 +1,4 @@
-# 🏦 Bank Account System
-
+# 🏦 Java Banking System
 > A console-based banking application demonstrating core Java programming skills and Object-Oriented Programming principles.
 
 ## 📋 Project Overview
